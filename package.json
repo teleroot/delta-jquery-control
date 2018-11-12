@@ -1,0 +1,35 @@
+{
+  "name": "delta-jquery-control",
+  "version": "0.1.0",
+  "description": "Class representing DeltaJS control with jQuery possibilities",
+  "main": "lib/index",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teleroot/delta-jquery-control.git"
+  },
+  "keywords": [
+    "deltajs",
+    "jquery"
+  ],
+  "author": "Dmitry Lysenko <delta.npm@gmail.com> (https://github.com/teleroot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teleroot/delta-jquery-control/issues"
+  },
+  "homepage": "https://github.com/teleroot/delta-jquery-control#readme",
+  "dependencies": {
+    "delta-lib": "^2.0.4",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-google": "^0.11.0"
+  }
+}
